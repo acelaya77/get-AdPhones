@@ -108,6 +108,8 @@ Function Get-AdPhones {
             "samAccountName"
             "employeeId"
             "ipPhone"
+            "telephoneNumber"
+            "OfficePhone"
             "givenName"
             "surname"
             "name"
